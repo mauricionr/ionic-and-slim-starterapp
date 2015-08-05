@@ -1,0 +1,1 @@
+# ionic-and-slim-starterapp
