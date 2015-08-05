@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 _file-manager
 .tmb
 .quarantine
 sftp-config.json
-=======
+
 # Logs
 logs
 *.log
@@ -31,4 +30,4 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
->>>>>>> c6a2806a18dd30d33e46fd4a29cf6674ca823a83
+
